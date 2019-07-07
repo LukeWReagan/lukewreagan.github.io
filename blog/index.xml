@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on </title>
+    <link>https://lukewreagan.github.io/blog/</link>
+    <description>Recent content in Blogs on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Apr 2019 14:51:12 +0600</lastBuildDate>
+    
+	<atom:link href="https://lukewreagan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DOMA</title>
+      <link>https://lukewreagan.github.io/blog/are-you-doing-the-right-way/</link>
+      <pubDate>Fri, 05 Apr 2019 14:51:12 +0600</pubDate>
+      
+      <guid>https://lukewreagan.github.io/blog/are-you-doing-the-right-way/</guid>
+      <description>Since 2000, DOMA has roasted high quality, ethically- sourced, direct-relationship coffees.</description>
+    </item>
+    
+    <item>
+      <title>Elmwood Inn</title>
+      <link>https://lukewreagan.github.io/blog/simple-post-title/</link>
+      <pubDate>Fri, 05 Apr 2019 14:39:16 +0600</pubDate>
+      
+      <guid>https://lukewreagan.github.io/blog/simple-post-title/</guid>
+      <description>Southern folks really know their stuff when it comes to tea.</description>
+    </item>
+    
+    <item>
+      <title>Wild June Co.</title>
+      <link>https://lukewreagan.github.io/blog/wild-june-co/</link>
+      <pubDate>Fri, 05 Apr 2019 14:39:16 +0600</pubDate>
+      
+      <guid>https://lukewreagan.github.io/blog/wild-june-co/</guid>
+      <description>Body care can be simple, honest, and natural while still being FUN!</description>
+    </item>
+    
+  </channel>
+</rss>
